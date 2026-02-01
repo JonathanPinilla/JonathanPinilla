@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Jonathan
 
-<!--
-**JonathanPinilla/JonathanPinilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | 🚀 Open Source Enthusiast | 🐧 Linux user 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [mercadolibre](https://mercadolibre.com)
+- 🌱 Learning: C, Go, React.
+- 💬 Ask me about: Java, Web Dev, Linux distros
+- 📫 Reach me: [jonathan@jonathanpf.dev](mailto:jonathan@jonathanpf.dev)
+
+## 🛠 Tech Stack
+- Java, Python, JavaScript, TypeScript, Go, Lua, C.
+- React, Node.js, Angular, SpringBoot.
+- Docker, GitHub Actions.
